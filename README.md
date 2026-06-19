@@ -38,25 +38,6 @@ Estas son algunas de las tecnologías con las que he trabajado:
 
 ---
 
-## 💼 Experiencia destacada
-
-**Full Stack Developer Intern (Backend-focused)** – WiQU  
-_Enero 2026 - Abril 2026_
-
-- Desarrollo de sistemas backend con Node.js, PostgreSQL y Prisma
-- Arquitectura escalable y orientada a producción
-- Integración con CI/CD y AWS
-- Colaboración en equipos ágiles
-
-**Junior Developer Intern** – Performance Labs SL  
-_Marzo 2025 - Junio 2025_
-
-- Desarrollo de herramientas con Python y LangGraph
-- Sistemas de automatización y procesamiento de documentos
-- Integración frontend/backend con Node.js y Streamlit
-
----
-
 ## 📫 Contacto
 
 - 📧 Email: **alvaro.rod@hotmail.es**
